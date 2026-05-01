@@ -27,24 +27,17 @@
 ## 🚀 Featured Project
 
 ### 🧠 AI Productivity Analyzer
+AI-based system to track and analyze user productivity.
 
-📌 An intelligent system that tracks and analyzes user productivity using AI.
+👉 https://github.com/ShivNaik26/AI-productivity-Analyzer
 
-🔹 Features:
 
-* ⏱️ Tracks daily activity
-* 📊 Generates productivity insights
-* 🧠 Uses AI logic for analysis
-* 📈 Improves focus and time management
+## 📌 Other Projects
 
-🔹 Tech Used:
+### 🎤 SpeakUpTech
+AI-based mock interview system using Flask, NLP & emotion detection.
 
-* Python
-* Machine Learning (Basic)
-* Data Processing
-
-👉 GitHub Repo:
-https://github.com/ShivNaik26/AI-productivity-Analyzer
+👉 https://github.com/ShivNaik26/SpeakUptech
 
 ---
 
