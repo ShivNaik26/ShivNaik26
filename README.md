@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shivprasad Naik
+# 👋 Hi, I'm Shivaprasad Naik
 
 🚀 Software Developer | AI/ML Enthusiast | DevOps Learner
 
