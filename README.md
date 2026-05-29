@@ -5,11 +5,7 @@
 
 ## 🔥 About Me
 
-* 🎓 MCA Student
-* 🤖 Building real-world AI-based projects
-* 💻 Strong interest in Backend + Web Development
-* ☁️ Learning AWS & Azure Cloud
-* 🔐 Exploring Cybersecurity
+MCA Graduate with an interest in Cloud Computing, DevOps, Python Development, and Cybersecurity. Currently learning AWS and DevOps practices while building hands-on projects to strengthen practical skills.
 
 ---
 
