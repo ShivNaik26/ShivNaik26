@@ -34,13 +34,13 @@ AI-based mock interview system using Flask, NLP & emotion detection.
 
 👉 https://github.com/ShivNaik26/SpeakUptech
 
----
+<!---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ShivNaik26\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=ShivNaik26&show_icons=true&theme=tokyonight)
 
----
+--->
 
 ## 📫 Connect with Me
 
