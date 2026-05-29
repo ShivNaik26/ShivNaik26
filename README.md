@@ -11,13 +11,16 @@ MCA Graduate with an interest in Cloud Computing, DevOps, Python Development, an
 
 ## 🛠️ Tech Stack
 
-* 💻 Languages: Python, Java, C/C++
-* 🌐 Web: HTML, CSS, JavaScript
-* ⚙️ Tools: Git, GitHub, VS Code
-* ☁️ Cloud: AWS, Azure
-* 🔄 DevOps: CI/CD (Beginner)
+* ☁️ AWS (EC2, S3, IAM)
+* ⚙️ DevOps (Learning)
+* 🌐 HTML | CSS | JavaScript
+* 🐍 Python Enthusiast
+* 🔄 Git | GitHub | CI/CD
+* 🛠️ VS Code
+* 🔐 Cybersecurity Enthusiast
 
 ---
+
 
 ## 🚀 Featured Project
 
