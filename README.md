@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Shivaprasad Naik
 
-🚀 Software Developer | AI/ML Enthusiast | DevOps Learner
-
+🎓 MCA Graduate | AWS & DevOps Learner | Python Enthusiast | Cybersecurity Enthusiast 
 ---
 
 ## 🔥 About Me
