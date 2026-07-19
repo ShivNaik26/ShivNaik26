@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivaprasad Naik
 
-🎓 MCA Graduate | AWS & DevOps Learner | Python Enthusiast | Cybersecurity Enthusiast 
+🎓 MCA Graduate | AWS & DevOps Learner | Python | Cybersecurity Enthusiast 
 ---
 
 ## 🔥 About Me
