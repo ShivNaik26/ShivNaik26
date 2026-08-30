@@ -1,69 +1,61 @@
-# 👋 Hi, I'm Shivaprasad Naik
+# Hi, I'm Shivaprasad Naik 👋
 
-🎓 MCA Graduate | AWS & DevOps Learner | Python | Cybersecurity Enthusiast 
+**AWS Certified Solutions Architect – Associate | Aspiring Cloud & DevOps Engineer**
+
+MCA graduate building real, hands-on AWS and DevOps infrastructure projects — not tutorials. Actively looking for **Cloud Support** and **Junior DevOps** roles in Hyderabad, Pune, or Bengaluru.
+
 ---
 
-## 🔥 About Me
+## 🎓 Certification
 
-MCA Graduate with an interest in Cloud Computing, DevOps, Python Development, and Cybersecurity. Currently learning AWS and DevOps practices while building hands-on projects to strengthen practical skills.
+**AWS Certified Solutions Architect – Associate**
+Credential ID: `5a8e2d42dae9492aa04e4e08c65af43d`
+
+---
+
+## 🚀 Featured Projects
+
+### ☁️ Automated AWS Infra Deployment Pipeline
+Infrastructure-as-code project provisioning a full AWS environment with **Terraform** and deploying it through a **GitHub Actions CI/CD pipeline**.
+- VPC, EC2, and Security Groups provisioned via modular Terraform (`modules/vpc`)
+- Remote state managed in S3
+- GitHub Actions workflow automates build → deploy to EC2
+- 👉 [View Repo](https://github.com/ShivNaik26/my-aws--devops-project-main)
+
+### 🗄️ Serverless CRUD API — AWS Lambda + DynamoDB
+A fully serverless REST API built on **AWS Lambda (Python)**, **API Gateway (HTTP API)**, and **DynamoDB**.
+- CRUD operations against a DynamoDB `Students` table
+- Handles HTTP API request routing (`requestContext.http.method`)
+- IAM policies scoped per-resource for least-privilege access
+- 👉 [View Repo](https://github.com/ShivNaik26/serverless-crud-api)
+
+---
+
+## 🧠 Other Projects
+
+### AI Productivity Analyzer
+AI-based system to track and analyze user productivity.
+👉 [View Repo](https://github.com/ShivNaik26/AI-productivity-Analyzer)
+
+### SpeakUpTech
+AI-based mock interview system using Flask, NLP & emotion detection.
+👉 [View Repo](https://github.com/ShivNaik26/SpeakUptech)
 
 ---
 
 ## 🛠️ Tech Stack
 
-* ☁️ AWS (EC2, S3, IAM)
-* ⚙️ DevOps (Learning)
-* 🌐 HTML | CSS | JavaScript
-* 🐍 Python Enthusiast
-* 🔄 Git | GitHub | CI/CD
-* 🛠️ VS Code
-* 🔐 Cybersecurity Enthusiast
+**Cloud:** AWS (EC2, S3, IAM, VPC, Lambda, API Gateway, DynamoDB)
+**DevOps:** Terraform, GitHub Actions, CI/CD, Docker, Linux
+**Languages:** Python, JavaScript, HTML/CSS
+**Tools:** Git, GitHub, VS Code
 
 ---
-
-
-## 🚀 Featured Project
-
-### 🧠 AI Productivity Analyzer
-AI-based system to track and analyze user productivity.
-
-👉 https://github.com/ShivNaik26/AI-productivity-Analyzer
-
-
-## 📌 Other Projects
-
-### 🎤 SpeakUpTech
-AI-based mock interview system using Flask, NLP & emotion detection.
-
-👉 https://github.com/ShivNaik26/SpeakUptech
-
-<!---
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ShivNaik26&show_icons=true&theme=tokyonight)
-
---->
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/shivaprasad-naik-066232304
-* 🐦 Twitter: @SN_NexTech
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivaprasad-naik-066232304)
+- 🐦 [Twitter](https://twitter.com/SN_NexTech)
 
 ---
-
-⭐ Focused on building real-world impactful projects
-<!--
-**ShivNaik26/ShivNaik26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Currently building and shipping real-world AWS/DevOps infrastructure projects — open to Cloud Support and Junior DevOps opportunities.
