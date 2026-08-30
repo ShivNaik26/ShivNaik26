@@ -54,8 +54,8 @@ AI-based mock interview system using Flask, NLP & emotion detection.
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivaprasad-naik-066232304)
-- 🐦 [Twitter](https://twitter.com/SN_NexTech)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivaprasad-naik-0b6232304)
+- 🐦 [Twitter](https://x.com/SN_NextTech)
 
 ---
 ⭐ Currently building and shipping real-world AWS/DevOps infrastructure projects — open to Cloud Support and Junior DevOps opportunities.
