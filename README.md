@@ -20,14 +20,14 @@ Infrastructure-as-code project provisioning a full AWS environment with **Terraf
 - VPC, EC2, and Security Groups provisioned via modular Terraform (`modules/vpc`)
 - Remote state managed in S3
 - GitHub Actions workflow automates build → deploy to EC2
-- 👉 [View Repo](https://github.com/ShivNaik26/my-aws--devops-project-main)
+- 👉 [View Repo](https://github.com/ShivNaik26/terraform-aws-project)
 
 ### 🗄️ Serverless CRUD API — AWS Lambda + DynamoDB
 A fully serverless REST API built on **AWS Lambda (Python)**, **API Gateway (HTTP API)**, and **DynamoDB**.
 - CRUD operations against a DynamoDB `Students` table
 - Handles HTTP API request routing (`requestContext.http.method`)
 - IAM policies scoped per-resource for least-privilege access
-- 👉 [View Repo](https://github.com/ShivNaik26/serverless-crud-api)
+- 🔧 *Repo coming soon — currently finalizing before publishing*
 
 ---
 
