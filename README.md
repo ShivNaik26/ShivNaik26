@@ -1,6 +1,6 @@
 # Hi, I’m Shivaprasad Naik 👋
 
-**AWS Certified Solutions Architect – Associate | Microsoft Certified: Azure Administrator Associate | Aspiring Cloud & DevOps Engineer**
+**AWS Certified Solutions Architect – Associate | Microsoft Certified: Azure Administrator Associate | Cloud & DevOps Engineer**
 
 MCA graduate building hands-on AWS, Azure, and DevOps infrastructure projects. Actively seeking Cloud Support and Junior DevOps roles in Hyderabad, Pune, or Bengaluru.
 
