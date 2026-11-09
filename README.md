@@ -7,7 +7,7 @@ MCA graduate building hands-on AWS, Azure, and DevOps infrastructure projects. A
 ## 🎓 Certifications
 
 **AWS Certified Solutions Architect – Associate**  
-Credential ID: `5a8e2d42dae9492aa04e4e08c65af43d`
+Valid Until - June 2029
 
 **Microsoft Certified: Azure Administrator Associate**  
 Credential ID: `E31EBC106F08D5AF`
